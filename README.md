@@ -15,3 +15,16 @@ cargos with trucks and looking for future jobs.
 
 ## List of Jobs 
 <img src="imgs/Pending_Jobs.png"  /> 
+
+## Filters for available Jobs 
+<img src="imgs/Filters.png"  /> 
+
+## Apply for Job 
+<img src="imgs/Job_Accept.png"  /> 
+
+## Starting the Delivery 
+<img src="imgs/Job_Start.png"  /> 
+
+## Finishing the Delivers 
+<img src="imgs/Job_Finish.png"  /> 
+
